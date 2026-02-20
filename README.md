@@ -4,7 +4,7 @@
 
 - git clone https://github.com/sugar-tarn/technical_test.git
 
-- cd exam_project
+- cd technical_test
 
 ### 2. Create virtual environment
 
