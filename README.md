@@ -1,0 +1,4 @@
+- Create new user (username, email)
+- Retrieve all users
+- Uses Django REST Framework (Generics)
+- PostgreSQL as database
